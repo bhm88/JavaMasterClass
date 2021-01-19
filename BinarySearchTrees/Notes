@@ -1,0 +1,8 @@
+Balanced tree=if left and right childs are equal then it is balanced
+Unbalanced if no of left and right childs are not equal then its unbalanced and its a O(N) running time
+keeps the keys in sorted order
+binary search in sorted array
+
+InOrder Traversal--left node + root node +right node recursively---sorted order for integers or alphabetically
+Pre-order---root + left tree + right tree recursively
+Post -order---left tree + right tree + root recursively
