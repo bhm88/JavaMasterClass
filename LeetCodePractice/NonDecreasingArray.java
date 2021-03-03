@@ -32,7 +32,8 @@ public class NonDecreasingArray {
     }
 
     public static void main(String[] args) {
-        int arr[] = {4, 2, 3};
+        int arr[] = {4, 2, 3,5};
+        //int arr[] = {4, 2, 1};
         System.out.println(checkPossibility(arr));
 
     }
